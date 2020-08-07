@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T07:04:48.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="GAmXHRev2NYcSlfeu7AI" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T08:07:35.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="vaRHGmNhewIAmsY1ZE6q" version="13.5.8" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1896" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -146,6 +146,14 @@
         <mxCell id="SNdY29Xibx8d0OwwSOjc-72" value="嵌入式开发工程师" style="rounded=1;fillColor=#1ba1e2;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=16;strokeWidth=6;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1057" y="605.5" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SNdY29Xibx8d0OwwSOjc-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006EAF;strokeWidth=6;fontFamily=Helvetica;fontSize=16;" edge="1" parent="1" source="SNdY29Xibx8d0OwwSOjc-76" target="SNdY29Xibx8d0OwwSOjc-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="500" />
+              <mxPoint x="780" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SNdY29Xibx8d0OwwSOjc-76" value="严智敏（产品经理）" style="rounded=1;fillColor=#1ba1e2;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=18;strokeWidth=6;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1303" y="465.5" width="200" height="60" as="geometry" />
         </mxCell>
@@ -194,6 +202,9 @@
         </mxCell>
         <mxCell id="SNdY29Xibx8d0OwwSOjc-94" value="龚佳琴" style="rounded=1;fillColor=#1ba1e2;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=18;strokeWidth=6;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1550" y="704.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNdY29Xibx8d0OwwSOjc-97" value="WEB前端开发工程师（空缺）" style="rounded=1;fillColor=#1ba1e2;shadow=1;fontStyle=1;fontColor=#ffffff;fontSize=16;strokeWidth=6;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="810" y="870" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
